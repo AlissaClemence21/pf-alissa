@@ -5,7 +5,7 @@ The following projects are:
 2. Airbnb Webscrapping engine
 3. Pandas data fetching from the New York Police Department Website
 4. Marvel API and webscrapping engine combined
-5. Spotify Recommendation engine :
+5. Spotify Recommendation engine : use of collaborative filtering algorithm using cosine similarity and vector weights
   This last project is a group project and the following authors are:
   Fabrizio Rocco - ESADE Business School
   Alissa Clémence - ESADE Business School
